@@ -1,7 +1,7 @@
 ---
 title: Getting started
 date: 2018-09-15 07:42:34
-slug: INTRO ROS
+slug: INTRO-ROS
 ---
 
 ## INTRO ROS
